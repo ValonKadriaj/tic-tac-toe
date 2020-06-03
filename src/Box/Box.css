@@ -1,0 +1,9 @@
+.boxContainer {
+  width: 200px;
+  height: 200px;
+  background-color: white;
+}
+.icon {
+  font-size: 120px;
+  color: blue;
+}

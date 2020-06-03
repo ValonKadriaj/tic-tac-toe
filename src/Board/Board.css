@@ -1,0 +1,9 @@
+.boardContainer {
+  align-self: center;
+  margin: 0 auto;
+  width: 600px;
+  height: 600px;
+  display: flex;
+  flex-wrap: wrap;
+  background-color: green;
+}
